@@ -1,2 +1,8 @@
 # algorithms-implementations
-Implementations of algorithms and data structures
+
+Implementações de algoritmos e estruturas de dados nas linguagens eu gosto
+
+- Javascript
+- Rust
+- Elixir
+
